@@ -1,0 +1,135 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+@font-face {
+	font-family: 'HighTide_Sans';
+	src: url(../font/HighTide_Sans.otf);
+}
+@font-face {
+	font-family: 'diamondslight';
+	src: url(../font/DiamondsLight.otf);
+	
+}
+@font-face {
+	font-family: 'The_FrontMan2_demo';
+	src: url(../font/The_FrontMan2_demo.ttf);
+}
+hr {
+	height: 10px;
+
+}
+body {
+	text-align: center;
+}
+#diet {
+	font-family: 'The_FrontMan2_demo';
+	font-size: 200px;
+}
+#DC {
+	margin: 10px;
+	padding-bottom: 50px;
+}
+#cover {
+	padding-bottom: 50px;
+	width:1250px;
+	max-width: 2000px;
+	height: auto;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+#profile {
+	width: 300px;
+	max-width: 500px;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#hello {
+	font-family: 'HighTide_Sans';
+	padding-bottom: 50px;
+}
+#asp {
+	padding-bottom: 50px;
+}
+#myskills {
+	font-family: 'HighTide_Sans';
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
+#dancer {
+	font-family: 'HighTide_Sans';
+	padding-bottom: 20px;
+}
+#asadancer {
+	padding-left: 500px;
+	padding-right: 500px;
+	padding-bottom: 50px;
+
+
+}
+#choreographer {
+	font-family: 'HighTide_Sans';
+	padding-bottom: 20px;
+}
+#asachoreo {
+	margin-left: 500px;
+	margin-right: 500px;
+	padding-bottom: 50px;
+
+}
+#git {
+	font-family: 'HighTide_Sans';
+	padding-top: 20px;
+	padding-bottom: 50px;
+
+}
+#let {
+	padding-bottom: 30px;
+}
+#learn {
+	padding-bottom: 30px;
+}
+#in {
+	color: black;
+	padding: 10px;
+	font-family: 'HighTide_Sans';
+
+}
+.getintouch {
+	padding-bottom: 30px;
+}
+.bottom {
+	background-color: #B0A99F;
+	color: white;
+	font-size: 20px;
+	padding-bottom: 50px;
+	padding-top: 50px;
+	text-decoration: none;
+	color: white;
+
+}
+#fb {
+	text-decoration: none;
+	color: white;
+	margin: 15px;
+	font-family: 'HighTide_Sans'
+}
+footer {
+	font-family: 'diamondslight';
+	padding-top: 20px;
+}
+
+h2	{
+	font-family: 'HighTide_Sans';
+}
+p {
+	font-family: 'diamondslight';
+
+}
+.header {
+	background-color: #B0A99F;
+	color: white;
+}
